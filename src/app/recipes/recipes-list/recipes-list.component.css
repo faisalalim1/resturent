@@ -1,8 +1,24 @@
-.list-group-item{
+ /* .list-group-item{
   width: 300px;
-  height: 200px;
+  height: 200px; 
   border: 2px solid rgb(172, 227, 172);
   padding: 50px;
   margin: 20px;
+} */
+
+
+.list-group-item{
+    width: 350px;
+    display: flex;
+    border-radius: 5px;
 }
 
+.pull-left{
+    width: 60%;
+}
+
+.pull-right{
+    width: 40%;
+    margin-top: 3px;
+    margin-left: 40px;
+}
