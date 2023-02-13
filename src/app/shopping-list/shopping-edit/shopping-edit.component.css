@@ -1,0 +1,30 @@
+.btn1{
+    margin-right: 16px;
+    padding: 10px 20px;
+    background-color: #7D80C7;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.btn2{
+    margin-right: 16px;
+    padding: 10px 20px;
+    background-color: #757ae8;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.btn3{
+    margin-right: 16px;
+    padding: 10px 20px;
+    background-color: #7D80C7;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
